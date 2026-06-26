@@ -1,0 +1,6 @@
+gradio
+easyocr
+opencv-python
+imutils
+pandas
+matplotlib
