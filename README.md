@@ -179,10 +179,6 @@ Pada versi pengembangan awal, antarmuka web mengalami masalah getar dan lompatan
 
 ---
 
-## 👥 Pengembang Proyek (Kelompok)
 
-*   **[Nama Mahasiswa 1]** - (NIM: [NIM 1]) - Kontributor Modul Pipeline OpenCV & Segmentasi
-*   **[Nama Mahasiswa 2]** - (NIM: [NIM 2]) - Kontributor Desain Antarmuka Gradio & Modul CSS
-*   **[Nama Mahasiswa 3]** - (NIM: [NIM 3]) - Kontributor Evaluasi Metrik & Dokumentasi Ilmiah
 
 *Proyek Akhir ini diajukan untuk memenuhi nilai Mata Kuliah Pengolahan Citra Digital.*
